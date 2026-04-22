@@ -1,0 +1,14 @@
+[
+  {
+    "OrderID": "99db74d9-4163-4d91-a5c7-c1e1a71dd6bf",
+    "ClientName": "Алексей",
+    "Phone": "88005553535",
+    "Vehicle": "Toyota Corolla (my_plate)",
+    "Status": "draft",
+    "Complaint": "Стучит мотор",
+    "TotalAmount": 0,
+    "PaidTotal": 0,
+    "Debt": 0,
+    "IsPaid": false
+  }
+]
